@@ -75,6 +75,22 @@ https://github.com/Biacco42/Ergo42
 
 
 
+
+## ErgoDash
+https://github.com/omkbd/ErgoDash
+
+![ErgoDash](https://github.com/omkbd/picture/raw/master/Ergodash.jpg)
+
+
+
+
+## Redox 
+https://github.com/mattdibi/redox-keyboard
+
+![Redox](https://github.com/mattdibi/redox-keyboard/raw/master/img/redox-1.jpg)
+
+
+
 ## Helix
 https://github.com/MakotoKurauchi/helix
 
@@ -195,6 +211,13 @@ https://geekhack.org/index.php?topic=72529.0
 https://github.com/mathieubolla/sik_keyboard
 
 ![Staryu](https://github.com/mathieubolla/sik_keyboard/raw/master/doc/images/final-1.jpg)
+
+
+
+## Mitosis
+https://github.com/reversebias/mitosis-hardware
+
+![Mitosis](https://i.imgur.com/JTzXTCD_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
 
 
 
